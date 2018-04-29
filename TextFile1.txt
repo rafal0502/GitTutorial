@@ -2,10 +2,6 @@ Hello world!
 This is a second line in the file.
 This is GitTutorial
 haha
-<<<<<<< HEAD
 No to siê porobi³o!
-=======
 No to kurde mol!
-
->>>>>>> 82bc21c6bd7ea7d5946b26911845d146f89ddeac
 
